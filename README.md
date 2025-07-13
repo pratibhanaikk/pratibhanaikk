@@ -6,7 +6,7 @@
 
 ### Haridwar, India  
 📧 pratibhanaik46340@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/pratibha-naik) • [GitHub](https://github.com/naikpratibha)
+[LinkedIn](https://www.linkedin.com/in/pratibha-naik) • [GitHub](https://github.com/pratibhanaikk)
 
 ---
 
