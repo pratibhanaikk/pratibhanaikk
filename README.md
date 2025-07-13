@@ -1,16 +1,16 @@
-# 👋 Hi, I'm Pratibha Naik!
+# Hi, I'm Pratibha Naik!
 
 **Data Analyst & Software Developer | Python, SQL, Azure | Experience with Uber, Microsoft & Large-Scale Projects**
 
 ---
 
-### 📍 Haridwar, India  
+### Haridwar, India  
 📧 pratibhanaik46340@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/pratibha-naik) • [GitHub](https://github.com/naikpratibha)
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Detail-oriented Data Analyst and Software Developer with strong expertise in programming, data analysis, machine learning, and system optimization. I have a proven record of automating processes, improving system performance, and delivering actionable insights to drive business outcomes.
 
@@ -20,7 +20,7 @@ Detail-oriented Data Analyst and Software Developer with strong expertise in pro
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 - **Programming Languages:** Python, SQL, JavaScript, C#, Java  
 - **Data Analysis & ML:** Pandas, NumPy, SVM, Jupyter Notebook, Streamlit  
@@ -31,7 +31,7 @@ Detail-oriented Data Analyst and Software Developer with strong expertise in pro
 
 ---
 
-## 🏆 Experience Highlights
+## Experience Highlights
 
 ### **Uber | Data Analytics Specialist**
 - Improved trip completion accuracy by 60% & flow accuracy by 80% via JavaScript policy updates.
@@ -50,13 +50,13 @@ Detail-oriented Data Analyst and Software Developer with strong expertise in pro
 
 ---
 
-## 🎓 Education
+## Education
 
 **BTech** — IIT (Banaras Hindu University), Varanasi, India
 
 ---
 
-## 🌐 Let's Connect
+## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/pratibha-naik)
 - [GitHub](https://github.com/naikpratibha)
