@@ -2,10 +2,11 @@
 
 🎯 **Data Analyst & Software Developer**
 
--  I turn data into insights and ideas into applications  
--  Skilled in Python, Django, SQL, and data visualization  
--  Exploring open-source and backend development  
--  Passionate about building smart, scalable solutions  
+- I’m a passionate developer who thrives at the intersection of **data and code**.  
+- I specialize in **Python, Django, SQL**, and turning raw data into **clear, actionable insights**.  
+- My work spans **data analysis**, **backend APIs**, and building full-stack applications.  
+- I enjoy contributing to **open-source projects**, learning new tools, and solving real-world problems with technology.  
+- Currently exploring opportunities to grow as a **developer, collaborator**, and problem-solver in the tech community.
 
 
 ## 🌐 Socials:
