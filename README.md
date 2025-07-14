@@ -68,4 +68,4 @@ Detail-oriented Data Analyst and Software Developer with strong expertise in pro
 
 ---
 
-![Pratibha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naikpratibha&show_icons=true&hide_title=true&hide_rank=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=naikpratibha&show_icons=true&hide_title=true&hide_rank=true&theme=default)
